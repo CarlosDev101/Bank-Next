@@ -107,11 +107,29 @@
   Após você  digitar o código acima, aperte <b>Run</b> para rodar o código. Depois que você rodar o código vai criar duas tabelas. <b>Clientes</b> e <b>Conta</b>. Em seguida feche o navegador não se esqueça de fechar ele tambêm no gerenciador de tarefas. 
 </div>
 
-<div align="center">
-  <h2><img src="https://media1.giphy.com/media/Iha8mghCOKWYONp31N/giphy.gif?cid=ecf05e470j00jo20am5a3yz5kloh4loak7zbgb5gmx868omf&rid=giphy.gif&ct=s" width="30px"> Quarto Passo - Instalando uma IDE<img src="https://media1.giphy.com/media/Iha8mghCOKWYONp31N/giphy.gif?cid=ecf05e470j00jo20am5a3yz5kloh4loak7zbgb5gmx868omf&rid=giphy.gif&ct=s" width="30px"></h2>
-  
-  Você vai precisar instalar uma IDE para rodar o programa, caso você já tenha instalado apenas ignore este tópico. Iremos usar a IDE eclipse, está IDE vai rodar os códigos em Java
+<hr>
 
+<div align="center">
+  <h2><img src="https://media1.giphy.com/media/Iha8mghCOKWYONp31N/giphy.gif?cid=ecf05e470j00jo20am5a3yz5kloh4loak7zbgb5gmx868omf&rid=giphy.gif&ct=s" width="30px"> Quarto Passo - Instalando uma IDE <img src="https://media1.giphy.com/media/Iha8mghCOKWYONp31N/giphy.gif?cid=ecf05e470j00jo20am5a3yz5kloh4loak7zbgb5gmx868omf&rid=giphy.gif&ct=s" width="30px"></h2>
+  
+  Você vai precisar instalar uma IDE para rodar o programa, caso você já tenha instalado apenas ignore este tópico. Iremos usar a IDE eclipse, está IDE vai rodar os códigos em Java. <a href="https://www.eclipse.org/downloads/" target="_blank">Baixe o eclipse apertando aqui</a>. 
+</div>
+
+<hr>
+
+<div align="center">
+  <h2><img src="https://media3.giphy.com/media/5Lmn42BCOy99RaGRP7/giphy.gif?cid=ecf05e47ihyp455ordizz2qfo3gpow3yhbao4q314ja7rsgj&rid=giphy.gif&ct=s" width="30px"> Quinto Passo - Executando o código (Final) <img src="https://media3.giphy.com/media/5Lmn42BCOy99RaGRP7/giphy.gif?cid=ecf05e47ihyp455ordizz2qfo3gpow3yhbao4q314ja7rsgj&rid=giphy.gif&ct=s" width="30px"></h2>
+  
+  Após a instalação do Eclipse você vai baixar o código do Banco aqui do GitHub. Depois extraia e jogue no Eclipse.
+</div>  
+
+<hr>
+
+<div align="center">
+  <h2><img src="https://media2.giphy.com/media/g0TqNeR4h6iTDipxkP/giphy.gif?cid=ecf05e478s50rcnxmemdu2qire04jutz8q72bbuq0cx14ros&rid=giphy.gif&ct=s" width="30px"> Observações <img src="https://media2.giphy.com/media/g0TqNeR4h6iTDipxkP/giphy.gif?cid=ecf05e478s50rcnxmemdu2qire04jutz8q72bbuq0cx14ros&rid=giphy.gif&ct=s" width="30px"></h2>
+  
+  Comecei a estudar Java faz 3 meses, e decidi criar este projeto. Levei em torno de 1/2 semanas para conclui-lo.
+</div>  
 
 
 
