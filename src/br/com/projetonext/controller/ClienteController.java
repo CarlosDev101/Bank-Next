@@ -1,11 +1,15 @@
 package br.com.projetonext.controller;
 
 import java.util.Scanner;
+import java.util.regex.Matcher;
+import java.util.regex.Pattern;
 
 import br.com.projetonext.model.Cliente;
 import br.com.projetonext.view.Application;
 
 public class ClienteController {
+
+	Scanner input = new Scanner(System.in);
 
 	public void cadastarCliente(String NomeUsuario, String CpfUsuario, String EmailUsuario, String SenhaUsuario) {
 		try {
@@ -60,25 +64,35 @@ public class ClienteController {
 		}
 
 	}
-	
-	Scanner input = new Scanner(System.in);
 
 	public void validarNome(String nome) {
+		encontraNum(nome);
+		while (encontraNum(nome) == true) {
+			System.out.print("Nome invalido! Informe seu nome completo sem numeros: ");
+			nome = input.next();
+		}
 		while (nome.length() <= 5) {
 			System.out.print("Nome invalido! Informe seu nome completo: ");
 			nome = input.next();
 		}
 	}
 
+	public boolean encontraNum(String texto) {
+		String regex = "([0-9])";
+		Pattern padrao = Pattern.compile(regex);
+		Matcher match = padrao.matcher(texto);
+		return match.find();
+	}
+
 	public void ValidarCPF(String cpf) {
 		try {
 			while (cpf.length() != 11) {
-				System.out.print("CPF invalido! Informe seu CPF completo sem pontos e traços: ");
+				System.out.print("CPF invalido! Informe seu CPF completo sem pontos e traÃ§os: ");
 				cpf = input.next();
 			}
 			Long.parseLong(cpf);
 		} catch (Exception e) {
-			System.out.print("Seu CPF só pode conter numeros!");
+			System.out.print("Seu CPF sÃ³ pode conter numeros!");
 			Application.Next();
 		}
 
@@ -98,7 +112,6 @@ public class ClienteController {
 			senha = input.next();
 		}
 	}
-
 
 	public void EntrouNaConta() {
 		Application.MenuConta();
