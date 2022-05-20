@@ -126,7 +126,7 @@
 <hr>
 
 <div align="center">
-  <h2><img src="https://media2.giphy.com/media/g0TqNeR4h6iTDipxkP/giphy.gif?cid=ecf05e478s50rcnxmemdu2qire04jutz8q72bbuq0cx14ros&rid=giphy.gif&ct=s" width="30px"> Observações <img src="https://media2.giphy.com/media/g0TqNeR4h6iTDipxkP/giphy.gif?cid=ecf05e478s50rcnxmemdu2qire04jutz8q72bbuq0cx14ros&rid=giphy.gif&ct=s" width="30px"></h2>
+  <h2><img src="https://media3.giphy.com/media/VDNDX5BhKKz0YsJkl0/giphy_s.gif?cid=ecf05e478s50rcnxmemdu2qire04jutz8q72bbuq0cx14ros&rid=giphy_s.gif&ct=g" width="30px"> Observações <img src="https://media3.giphy.com/media/VDNDX5BhKKz0YsJkl0/giphy_s.gif?cid=ecf05e478s50rcnxmemdu2qire04jutz8q72bbuq0cx14ros&rid=giphy_s.gif&ct=g" width="30px"></h2>
   
   Comecei a estudar Java faz 3 meses, e decidi criar este projeto. Levei em torno de 1/2 semanas para conclui-lo.
 </div>  
