@@ -85,7 +85,7 @@
 <div align="center">
   <h2><img src="https://media3.giphy.com/media/3OOZj3qNyiHDAWrbfn/giphy.gif?cid=ecf05e47xumvuhjizlo942pfu6fn1m2bdzaao8m3cmrt3bpc&rid=giphy.gif&ct=s" width="30px"> Terceiro Passo - Criando um banco de dados <img src="https://media3.giphy.com/media/3OOZj3qNyiHDAWrbfn/giphy.gif?cid=ecf05e47xumvuhjizlo942pfu6fn1m2bdzaao8m3cmrt3bpc&rid=giphy.gif&ct=s" width="30px"></h2>
   
-  Após fechar o CMD você vai na barra de pesquisa do windows e digita <b>H2</b> Após apertar nele, você vai ser jogado pro navegador e lá você vai apertar <b>Conect</b>.
+  Após fechar o CMD você vai na barra de pesquisa do windows e digita <b>H2</b>. Após apertar nele, você vai ser jogado pro navegador e lá você vai apertar <b>Conect</b>.
   
   Quando você entrar no banco de dados você vai digitar
   
@@ -104,7 +104,7 @@
     FOREIGN KEY (ID) REFERENCES CLIENTES(ID)
     )
   
-  Após você  digitar o código acima, aperte <b>Run</b> para rodar o código. Depois que você rodar o código vai criar duas tabelas. <b>Clientes</b> e <b>Conta</b>. Em seguida feche o navegador não se esqueça de fechar ele tambêm no gerenciador de tarefas. 
+  Após você  digitar o código acima, aperte <b>Run</b> para rodar o código. Depois que você rodar o código vai criar duas tabelas. <b>Clientes</b> e <b>Conta</b>. Em seguida feche o navegador não se esqueça de fechar ele também no gerenciador de tarefas. 
 </div>
 
 <hr>
