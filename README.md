@@ -120,7 +120,12 @@
 <div align="center">
   <h2><img src="https://media3.giphy.com/media/5Lmn42BCOy99RaGRP7/giphy.gif?cid=ecf05e47ihyp455ordizz2qfo3gpow3yhbao4q314ja7rsgj&rid=giphy.gif&ct=s" width="30px"> Quinto Passo - Executando o código (Final) <img src="https://media3.giphy.com/media/5Lmn42BCOy99RaGRP7/giphy.gif?cid=ecf05e47ihyp455ordizz2qfo3gpow3yhbao4q314ja7rsgj&rid=giphy.gif&ct=s" width="30px"></h2>
   
-  Após a instalação do Eclipse você vai baixar o código do Banco aqui do GitHub. Depois extraia e jogue no Eclipse.
+  Após a instalação do Eclipse você vai baixar o código do Banco aqui do GitHub. Depois extraia e jogue no Eclipse, você vai entrar na pasta
+  
+    src/br/com/projetonext/view/Application.java
+  
+  E rode o arquivo.
+  
 </div>  
 
 <hr>
@@ -130,7 +135,3 @@
   
   Comecei a estudar Java faz 3 meses, e decidi criar este projeto. Levei em torno de 1/2 semanas para conclui-lo.
 </div>  
-
-
-
-  
