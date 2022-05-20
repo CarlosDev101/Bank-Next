@@ -29,7 +29,7 @@
 
 
 <div align="center">
-  <h2><img src="https://media0.giphy.com/media/RgzAimVNu51jHb3fGi/giphy.gif?cid=ecf05e477zi4xttwa4s4i2jawvbt3trx5qjtmi0i5w5c8py2&rid=giphy.gif&ct=s" width="30px"> Primeiro passo - Instalando o Java <img src="https://media0.giphy.com/media/RgzAimVNu51jHb3fGi/giphy.gif?cid=ecf05e477zi4xttwa4s4i2jawvbt3trx5qjtmi0i5w5c8py2&rid=giphy.gif&ct=s" width="30px"></h2>
+  <h2><img src="https://media0.giphy.com/media/RgzAimVNu51jHb3fGi/giphy.gif?cid=ecf05e477zi4xttwa4s4i2jawvbt3trx5qjtmi0i5w5c8py2&rid=giphy.gif&ct=s" width="30px"> Primeiro Passo - Instalando o Java <img src="https://media0.giphy.com/media/RgzAimVNu51jHb3fGi/giphy.gif?cid=ecf05e477zi4xttwa4s4i2jawvbt3trx5qjtmi0i5w5c8py2&rid=giphy.gif&ct=s" width="30px"></h2>
   
   Antes de qualquer coisa, iremos instalar em nosso computador o <b>Java</b>. Java é uma linguagem de programação que vai lhe permitir utilizar este programa.<a href="https://java.com/pt-BR/download/ie_manual.jsp" target="_blank"> Instale o Java apertando aqui</a>. 
   
@@ -41,7 +41,7 @@
 <hr>
 
 <div align="center">
-  <h2><img src="https://media2.giphy.com/media/3ya3f6h1RbMxDzEG0r/giphy.gif?cid=ecf05e47w67j6yitp5pt8dne262h12mwyzv1k0l8uj6x3qf0&rid=giphy.gif&ct=s" width="30px"> Segundo passo - Instalando o H2 <img src="https://media2.giphy.com/media/3ya3f6h1RbMxDzEG0r/giphy.gif?cid=ecf05e47w67j6yitp5pt8dne262h12mwyzv1k0l8uj6x3qf0&rid=giphy.gif&ct=s" width="30px"></h2>
+  <h2><img src="https://media2.giphy.com/media/3ya3f6h1RbMxDzEG0r/giphy.gif?cid=ecf05e47w67j6yitp5pt8dne262h12mwyzv1k0l8uj6x3qf0&rid=giphy.gif&ct=s" width="30px"> Segundo Passo - Instalando o H2 <img src="https://media2.giphy.com/media/3ya3f6h1RbMxDzEG0r/giphy.gif?cid=ecf05e47w67j6yitp5pt8dne262h12mwyzv1k0l8uj6x3qf0&rid=giphy.gif&ct=s" width="30px"></h2>
   Após a instalação do <b>Java, JRE e JDK</b>, iremos instalar em nosso computador um Banco de dados Chamado <b>H2</b>. Este banco de dados vai servir para salvar os cadastros que iremos inserir em nosso programa. <a href="http://h2database.com/html/download.html" target="_blank">Baixe o H2 apertando aqui</a>. 
   
   Após ter instalado, você vai abrir o CMD e digitar 
@@ -83,7 +83,7 @@
 <hr>
 
 <div align="center">
-  <h2><img src="https://media3.giphy.com/media/3OOZj3qNyiHDAWrbfn/giphy.gif?cid=ecf05e47xumvuhjizlo942pfu6fn1m2bdzaao8m3cmrt3bpc&rid=giphy.gif&ct=s" width="30px"> Terceiro passo - Criando um banco de dados <img src="https://media3.giphy.com/media/3OOZj3qNyiHDAWrbfn/giphy.gif?cid=ecf05e47xumvuhjizlo942pfu6fn1m2bdzaao8m3cmrt3bpc&rid=giphy.gif&ct=s" width="30px"></h2>
+  <h2><img src="https://media3.giphy.com/media/3OOZj3qNyiHDAWrbfn/giphy.gif?cid=ecf05e47xumvuhjizlo942pfu6fn1m2bdzaao8m3cmrt3bpc&rid=giphy.gif&ct=s" width="30px"> Terceiro Passo - Criando um banco de dados <img src="https://media3.giphy.com/media/3OOZj3qNyiHDAWrbfn/giphy.gif?cid=ecf05e47xumvuhjizlo942pfu6fn1m2bdzaao8m3cmrt3bpc&rid=giphy.gif&ct=s" width="30px"></h2>
   
   Após fechar o CMD você vai na barra de pesquisa do windows e digita <b>H2</b> Após apertar nele, você vai ser jogado pro navegador e lá você vai apertar <b>Conect</b>.
   
