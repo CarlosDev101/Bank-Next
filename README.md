@@ -35,7 +35,7 @@
   
   Após a instalação do Java você vai instalar o JRE. O JRE é uma camada de software que é executado sobre um software de sistema operacional de um computador. <a href="https://www.oracle.com/java/technologies/install-windows.html" target="_blank"> Instale o JRE apertando aqui</a>. 
   
-  Após a instalação do JRE você vai instalar o JDK.Este pacote é disponibilizado pela Oracle, e nele vem todo o ambiente necessário para a criação e execução dos aplicativos java. <a href="https://www.oracle.com/java/technologies/downloads/" target="_blank"> Instale o JDK apertando aqui</a>. 
+  Após a instalação do JRE você vai instalar o JDK. Este pacote é disponibilizado pela Oracle, e nele vem todo o ambiente necessário para a criação e execução dos aplicativos java. <a href="https://www.oracle.com/java/technologies/downloads/" target="_blank"> Instale o JDK apertando aqui</a>. 
 </div>
 
 <hr>
