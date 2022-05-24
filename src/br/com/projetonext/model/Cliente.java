@@ -34,7 +34,7 @@ public class Cliente {
 		this.Email = email;
 	}
 
-	public String CriarConta(String NomeUsuario, String CpfUsuario, String EmailUsuario, String SenhaUsuario) {
+	public boolean CriarConta(String NomeUsuario, String CpfUsuario, String EmailUsuario, String SenhaUsuario) {
 		try {
 			Connection conn = DriverManager.getConnection("jdbc:h2:~/FiservBD", "Carlos", "");
 			Statement statement = conn.createStatement();
@@ -44,11 +44,11 @@ public class Cliente {
 					"'" + SenhaUsuario + "'");
 			statement.execute(Resposta);
 			conn.close();
-			return "Conta Criada!";
+			return true;
 
 		} catch (Exception e) {
 			System.out.print("Deu ruim, porque: " + e.getMessage());
-			return "Deu ruim, porque: " + e.getMessage();
+			return false;
 		}
 	}
 
