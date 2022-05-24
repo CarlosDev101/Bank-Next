@@ -11,12 +11,19 @@ public class ClienteController {
 
 	Scanner input = new Scanner(System.in);
 
-	public void cadastarCliente(String NomeUsuario, String CpfUsuario, String EmailUsuario, String SenhaUsuario) {
+	public boolean cadastarCliente(String NomeUsuario, String CpfUsuario, String EmailUsuario, String SenhaUsuario) {
 		try {
 			Cliente cliente = new Cliente();
-			cliente.CriarConta(NomeUsuario, CpfUsuario, EmailUsuario, SenhaUsuario);
+			if(cliente.CriarConta(NomeUsuario, CpfUsuario, EmailUsuario, SenhaUsuario) == true) {
+				return true;
+			} else {
+				return false;
+			}
+			
+			
 		} catch (Exception e) {
 			Application.Next();
+			return false;
 		}
 
 	}
@@ -67,7 +74,7 @@ public class ClienteController {
 
 	public void validarNome(String nome) {
 		encontraNum(nome);
-		while (encontraNum(nome) == true) {
+		while (encontraNum(nome)) {
 			System.out.print("Nome invalido! Informe seu nome completo sem numeros: ");
 			nome = input.next();
 		}
